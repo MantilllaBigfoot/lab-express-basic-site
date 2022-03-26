@@ -1,0 +1,19 @@
+h1 {
+  text-transform: uppercase;
+  text-decoration: underline;
+  margin: 0, auto;
+  text-align: center;
+}
+
+h3 {
+  text-transform: uppercase;
+  text-decoration: underline;
+  margin: 0, auto;
+  text-align: left;
+}
+
+.language-list {
+  text-decoration: solid;
+  color: mediumblue;
+  font-size: 2em;
+}
