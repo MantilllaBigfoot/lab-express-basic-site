@@ -1,8 +1,6 @@
 const express = require('express');
-var bodyParser = require('body-parser');
 
 const app = express();
-app.use(bodyParser());
 
 // __dirname = abs path to current file
 app.get('/', (request, response) => {
